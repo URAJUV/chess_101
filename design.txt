@@ -1,0 +1,15 @@
+Basic Chess Steps:-
+
+1. First make a chess board.
+2. Then place the points.
+3. Define the move functions
+4. Define the checking function
+5. Do playing using human on both sides.
+6. Add random moves by computer as initial AI.
+7. Optimise on AI.
+8. Fine tune AI till you lose
+9. Add GUI hooks.
+10. Final commit and push.
+
+!! Peace !!
+
